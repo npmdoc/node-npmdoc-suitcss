@@ -1,0 +1,28 @@
+<svg height="398" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="398" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">1 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ suitcss@2.0.0 </tspan>
+<tspan x="10" y="90">  ├─┬ suitcss-base@2.0.0 </tspan>
+<tspan x="10" y="106">  │ └── normalize.css@4.2.0 </tspan>
+<tspan x="10" y="122">  ├─┬ suitcss-components@1.0.1 </tspan>
+<tspan x="10" y="138">  │ ├── suitcss-components-arrange@1.1.1 </tspan>
+<tspan x="10" y="154">  │ ├── suitcss-components-button@5.0.0 </tspan>
+<tspan x="10" y="170">  │ ├── suitcss-components-flex-embed@2.0.4 </tspan>
+<tspan x="10" y="186">  │ └── suitcss-components-grid@3.0.3 </tspan>
+<tspan x="10" y="202">  └─┬ suitcss-utils@1.0.0 </tspan>
+<tspan x="10" y="218">    ├── suitcss-utils-align@1.0.0 </tspan>
+<tspan x="10" y="234">    ├── suitcss-utils-display@1.0.2 </tspan>
+<tspan x="10" y="250">    ├── suitcss-utils-flex@1.1.1 </tspan>
+<tspan x="10" y="266">    ├── suitcss-utils-layout@1.0.1 </tspan>
+<tspan x="10" y="282">    ├── suitcss-utils-link@1.0.1 </tspan>
+<tspan x="10" y="298">    ├─┬ suitcss-utils-offset@1.0.0 </tspan>
+<tspan x="10" y="314">    │ ├── suitcss-utils-after@1.0.1 </tspan>
+<tspan x="10" y="330">    │ └── suitcss-utils-before@1.0.1 </tspan>
+<tspan x="10" y="346">    ├── suitcss-utils-position@1.0.1 </tspan>
+<tspan x="10" y="362">    ├── suitcss-utils-size@1.1.0 </tspan>
+<tspan x="10" y="378">    └── suitcss-utils-text@1.0.0</tspan>
+</text>
+</svg>
